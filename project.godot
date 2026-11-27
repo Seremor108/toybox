@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Sketchpad"
+config/name="Toybox"
 config/description="A computational sketchpad made in Godot.
 All emojis designed by OpenMoji (openmoji.org) – the open-source emoji and icon project. License: CC BY-SA 4.0"
 run/main_scene="uid://005d0dsgnffv"
